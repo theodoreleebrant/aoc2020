@@ -1,0 +1,24 @@
+//Part  1
+HoDoRHoDoR Hodor?! HODOR Hodor!? Hodor? dHODOR hodor. hodor? (Hodor. Hodor? HODOR? , Hodor. HODOR Hodor?!? , Hodor!? hodor? hodor. hodor. hodor? r, Hodor hodor. rHodor? HODOR? hodor! ) {
+    $HODOR: rhodor?  = HHHOOODDDDOOORRR!!! Rhodor? hodor! HooodorrHodor Hodor?!? HODOR. (Hodor!? hodor? hodor. hodor. hodor? r, 'hodor! ');
+    $HODOR: HODOR rr = (Hodor hodor. rHodor? HODOR? hodor! .Hodor. HODOR hodor. hodor h(rhodor? ) || []).Hodor!? hodor? HODOR? hodor! hodor. h;
+    HODOR:: (Hodor. Hodor? HODOR?  <= HODOR rr && HODOR rr <= Hodor. HODOR Hodor?!? );
+}
+
+//Part  2
+HoDoRHoDoR Hodor?! HODOR Hodor!? Hodor? dHODOR hodor. hodor? 2(HODOR! Hodor? rHodor hodor. , Hodor hodor? hodor oHODOR? d, Hodor!? hodor? hodor. hodor. hodor? r, Hodor hodor. rHodor? HODOR? hodor! ) {
+    $HODOR: HODOR! Hodor hodor.  = Hodor hodor. rHodor? HODOR? hodor! .hodor hHODOR rhodor?!? hodor. (HODOR! Hodor? rHodor hodor.  - 1) === Hodor!? hodor? hodor. hodor. hodor? r;
+    $HODOR: Hodor HODOR? d = Hodor hodor. rHodor? HODOR? hodor! .hodor hHODOR rhodor?!? hodor. (Hodor hodor? hodor oHODOR? d - 1) === Hodor!? hodor? hodor. hodor. hodor? r;
+    HODOR:: (HODOR! Hodor hodor.  ^ Hodor HODOR? d);
+}
+
+HoDoRHoDoR hodor! hodor? hodor. HODOR?!? hodor!? Hodor. (hodor. ohodor. HODOR Hodor!? , hodor? Hodor!? hodor? Hodor. ) {
+    HODOR:: hodor. ohodor. HODOR Hodor!?  + Hodor?! HODOR Hodor!? Hodor? dHODOR hodor. hodor? (hodor? Hodor!? hodor? Hodor. [0], hodor? Hodor!? hodor? Hodor. [1], hodor? Hodor!? hodor? Hodor. [2], hodor? Hodor!? hodor? Hodor. [3]);
+}
+
+HoDoRHoDoR hodor! hodor? hodor. HODOR?!? hodor!? Hodor. 2(hodor. ohodor. HODOR Hodor!? , hodor? Hodor!? hodor? Hodor. ) {
+    HODOR:: hodor. ohodor. HODOR Hodor!?  + Hodor?! HODOR Hodor!? Hodor? dHODOR hodor. hodor? 2(hodor? Hodor!? hodor? Hodor. [0], hodor? Hodor!? hodor? Hodor. [1], hodor? Hodor!? hodor? Hodor. [2], hodor? Hodor!? hodor? Hodor. [3]);
+}
+
+hodor.hod(Hodor? HODOR? HODOR. hodor!? hodor. .rhodor? dhodor!? hodor hodor? (hodor! hodor? hodor. HODOR?!? hodor!? Hodor. , 0));
+hodor.hod(Hodor? HODOR? HODOR. hodor!? hodor. .rhodor? dhodor!? hodor hodor? (hodor! hodor? hodor. HODOR?!? hodor!? Hodor. 2, 0));
